@@ -17,4 +17,3 @@ We are writing this program in python 3.7.6 with the following libraries:
 * `Adv_training-Mobilenet.ipynb`: Targeted and Non-targeted FGSM attack on the previous model and adversarial training using perturbed images
 * `Data_Augmentation.ipynb`: 30x Data augmentation on the training set using augmentor
 * `Data_Labeling.ipynb`: Convert labels of images to one-hot encoding format by their folder name, output as .csv
-* `Data_Loading`: Resize and load the images and its label as NP array
