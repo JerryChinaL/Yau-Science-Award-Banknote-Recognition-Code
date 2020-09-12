@@ -1,7 +1,7 @@
 # Yau-Science-Award-Banknote-Recognition-Code
 Authors: Hangyu Liu, Haoyang Cai
 ## Project Dependencies:
-We are writing this program in python 3 with the following libraries:
+We are writing this program in python 3.7.6 with the following libraries:
 * Pytorch:1.5.1
 * Torchvision:0.6.1
 * Pandas:0.24.2
