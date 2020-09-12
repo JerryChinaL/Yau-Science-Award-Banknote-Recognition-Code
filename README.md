@@ -1,3 +1,18 @@
 # Yau-Science-Award-Banknote-Recognition-Code
 Authors: Hangyu Liu, Haoyang Cai
-print(torch.__version__,torchvision.__version__,os.__version__,pd.__version__,skimage.__version__,np.__version__,plt.__version__, cv2.__version__,sklearn.__version)
+## Project Dependencies:
+      Pytorch:1.5.1
+      Torchvision:0.6.1
+      Pandas:0.24.2
+      Skimage:0.15.0
+      Numpy:1.16.4
+      Matplotlib:3.1.0
+      cv2:3.4.1
+      Sklearn:0.21.2
+      Augmentor:0.2.8
+      
+## File Structure:
+      CNN-Mobilenet.ipynb
+      Adv_training-Mobilenet.ipynb
+      Data_augmentation.ipynb
+      Data_labeling.ipynb
