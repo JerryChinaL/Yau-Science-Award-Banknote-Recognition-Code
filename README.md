@@ -14,5 +14,6 @@ Authors: Hangyu Liu, Haoyang Cai
 ## File Structure:
       CNN-Mobilenet.ipynb
       Adv_training-Mobilenet.ipynb
-      Data_augmentation.ipynb
-      Data_labeling.ipynb
+      Data_Augmentation.ipynb
+      Data_Labeling.ipynb
+      Data_Loading
