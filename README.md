@@ -1,4 +1,4 @@
-# Banknote-Recognition-Code
+# Science-Award-Banknote-Recognition-Code
 Authors: Hangyu Liu, Haoyang Cai
 ## Project Dependencies:
 We are writing this program in python 3.7.6 with the following libraries:
